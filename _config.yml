@@ -9,5 +9,4 @@ minima:
   # generate social links in footer
   social_links:
     github: ngriffiths21
-plugins:
 header-pages:
