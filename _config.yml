@@ -1,7 +1,13 @@
 theme: minima
 title: "APHA 2022 Poster: Parent Mental Health"
-author: Nicholas Griffiths
-description:
-social links:
+author:
+  name: Nicholas Griffiths
+  email: ngg@bu.edu
+description: >
+  Online content to go with the poster presented at APHA
+minima:
+  # generate social links in footer
+  social_links:
+    github: ngriffiths21
 plugins:
 header-pages:
