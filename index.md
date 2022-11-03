@@ -1,10 +1,14 @@
-### **School disruption during the COVID-19 pandemic and anxiety and depression among parents**
+---
+title:
+---
+
+## **School disruption during the COVID-19 pandemic and anxiety and depression among parents**
 
 Nicholas Griffiths, MPH, Janani Ramachandran, MPH, Stephanie Grady, MPH, Gregory Cohen, PhD
 
 *Boston University School of Public Health*
 
-#### **Abstract**
+### **Abstract**
 
 Background: The COVID-19 pandemic led to widespread social disruption and exacerbated the burden of anxiety and depression symptoms. Parents of school-aged children were impacted by school closures and distance learning, and it is critical to assess their mental health outcomes.
 
