@@ -18,6 +18,12 @@ Results: For both mothers and fathers, anxiety symptom prevalence was 13 percent
 
 Conclusion: Parents experiencing school disruption also experienced high rates of anxiety and depression symptoms. These disparate outcomes cannot be explained by simple demographic differences and suggest a need for additional mental health support in areas experiencing school disruption.
 
+### **Figures**
+
+![Line graph of the prevalence of anxiety among females over time, by mode of instruction](fig2_females_anx.svg)
+
+Figure 1A. Prevalence of anxiety among females over time, by mode of instruction.
+
 ### **References**
 
 Bieler, G. S., Brown, G. G., Williams, R. L., & Brogan, D. J. (2010). Estimating Model-Adjusted Risks, Risk Differences, and Risk Ratios From Complex Survey Data. *American Journal of Epidemiology*, *171*(5), 618–623. [https://doi.org/10.1093/aje/kwp440](https://doi.org/10.1093/aje/kwp440)
