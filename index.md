@@ -20,7 +20,7 @@ Conclusion: Parents experiencing school disruption also experienced high rates o
 
 ### **Figures**
 
-![Line graph of the prevalence of anxiety among females over time, by mode of instruction](fig2_females_anx.svg)
+![Line graph of the prevalence of anxiety among females over time, by mode of instruction](assets/fig2_females_anx.svg)
 
 Figure 1A. Prevalence of anxiety among females over time, by mode of instruction.
 
