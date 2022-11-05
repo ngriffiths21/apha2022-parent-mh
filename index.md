@@ -22,27 +22,27 @@ Conclusion: Parents experiencing school disruption also experienced high rates o
 
 ![Line graph of the prevalence of anxiety among females over time, by mode of instruction](assets/fig2_females_anx.svg)
 
-Figure 1A. Prevalence of anxiety among females over time, by mode of instruction.
+**Figure 1A.** Prevalence of anxiety among females over time, by mode of instruction.
 
 ![Line graph of the prevalence of anxiety among males over time, by mode of instruction](assets/fig2_males_anx.svg)
 
-Figure 1B. Prevalence of anxiety among males over time, by mode of instruction.
+**Figure 1B.** Prevalence of anxiety among males over time, by mode of instruction.
 
 ![Line graph of the prevalence of depression among females over time, by mode of instruction](assets/fig2_females_dep.svg)
 
-Figure 1C. Prevalence of depression among females over time, by mode of instruction.
+**Figure 1C.** Prevalence of depression among females over time, by mode of instruction.
 
 ![Line graph of the prevalence of depression among males over time, by mode of instruction](assets/fig2_males_dep.svg)
 
-Figure 1D. Prevalence of depression among males over time, by mode of instruction.
+**Figure 1D.** Prevalence of depression among males over time, by mode of instruction.
 
 ![Graph showing the prevalence of anxiety for those experiencing disrupted school compared to those not, for all U.S. states](assets/fig3_anx.svg)
 
-Fig 2A. Prevalence of anxiety for those experiencing disrupted school compared to those not, for all U.S. states.
+**Fig 2A.** Prevalence of anxiety for those experiencing disrupted school compared to those not, for all U.S. states.
 
 ![Graph showing the prevalence of depression for those experiencing disrupted school compared to those not, for all U.S. states](assets/fig3_dep.svg)
 
-Fig 2B. Prevalence of depression for those experiencing disrupted school compared to those not, for all U.S. states.
+**Fig 2B.** Prevalence of depression for those experiencing disrupted school compared to those not, for all U.S. states.
 
 ### **References**
 
